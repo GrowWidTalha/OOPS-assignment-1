@@ -8,6 +8,7 @@ Problem: Define a class named `Book`.  Create an instance of this class.
 </details>
 
 <details>
+  <summary>
 1. Class Properties
 </summary>
 Problem: Add properties `title` and `author` to the `Book` class. and create an instance of it with title and author properties
