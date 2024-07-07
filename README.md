@@ -1,4 +1,4 @@
-# Learn about Object Oriented Programming by answering these questions
+# Learn Object Oriented Programming by solving this assignment
 
 <details>
 <summary>
