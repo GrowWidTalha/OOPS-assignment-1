@@ -4,13 +4,13 @@
 <summary>
 1. Basic Class and Object
 </summary>
-Problem: Define a class named `Book`.  Create an instance of this class with a specific title and author.
+Problem: Define a class named `Book`.  Create an instance of this class.
 </details>
 
 <details>
 1. Class Properties
 </summary>
-Problem: Add properties `title` and `author` to the `Book` class. and create instance of it with title and author properties
+Problem: Add properties `title` and `author` to the `Book` class. and create an instance of it with title and author properties
 </details>
 
 <details>
